@@ -21,7 +21,7 @@ This repository provides Python scripts for downloading satellite products from 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/Saurav-JSU/Satellite-vs-GObs.git
    cd repo-name
    ```
 
