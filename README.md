@@ -11,7 +11,7 @@ This repository provides Python scripts for downloading satellite products from 
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.12.4
 - Required Python packages: `earthengine-api`, `dataretrieval`, `pandas`, `os`, `shutil`
 - Google Earth Engine account and authentication
 - NWIS API access
