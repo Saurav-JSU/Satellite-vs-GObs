@@ -91,10 +91,4 @@ This script downloads USGS station and precipitation data for specified states a
 
 Please feel free to submit issues, fork the repository, and submit pull requests. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Feel free to adjust the contents to better match your project specifics.
